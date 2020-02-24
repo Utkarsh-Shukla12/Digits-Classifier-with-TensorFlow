@@ -4,10 +4,10 @@ MNIST ("Modified National Institute of Standards and Technology") is the de fact
 
 our goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. We’ve curated a set of tutorial-style kernels which cover everything from regression to neural networks. We encourage you to experiment with different algorithms to learn first-hand what works well and how techniques compare
 
-#Practical Skills
-*Computer vision fundamentals including simple neural networks
+## Practical Skills
+* Computer vision fundamentals including simple neural networks
 
-*Classification methods such as SVM and K-nearest neighbors
+* Classification methods such as SVM and K-nearest neighbors
 
 ## Installation 
 ```
