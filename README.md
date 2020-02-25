@@ -24,5 +24,5 @@ pip install tensorflow numpy pandas matplotlib seaborn
 ## License
 [MIT License](https://en.wikipedia.org/wiki/MIT_License)
 
-## Autor
+## Author
 **Utkarsh Shukla**
